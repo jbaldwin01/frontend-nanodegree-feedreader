@@ -50,3 +50,5 @@ I learned how to use Jasmine to write a number of tests against a pre-existing a
 # How to run the application?
 
 Load index.html in your browser. Scroll to the bottom of the page to view Jasmine test results.
+or
+[Click here](https://jbaldwin01.github.io/frontend-nanodegree-feedreader/)
